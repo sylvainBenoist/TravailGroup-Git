@@ -17,6 +17,7 @@
             <label>Mail :</label>
             <input type="email" name="mail">
 
+            <textarea name ="msg_contact"></textarea>
             <button name="bt_form_contact">Contacter</button>
         </form>
     </main>
